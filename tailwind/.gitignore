@@ -1,0 +1,13 @@
+node_modules
+*.log
+*.gz
+build
+dist
+.env
+.idea/*
+.eslintcache
+.vscode/*
+coverage/*
+.vscode/*
+dist/*
+charts/values-local.yaml
